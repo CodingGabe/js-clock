@@ -1,4 +1,4 @@
-![drumkit](https://user-images.githubusercontent.com/16065174/49183792-6b09a800-f323-11e8-83fc-11c8671fdcd8.png)
+![drumkit](https://user-images.githubusercontent.com/16065174/49260907-4d147400-f405-11e8-8c11-83a9490e398f.png)
 
 # Gabe's Clock
 
